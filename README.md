@@ -1,5 +1,5 @@
 # 👋Hi! what's up 
-# I’m Nagaraj⚡️
+# ⚡️I’m Nagaraj⚡️
 - 🌱 Doing B.Tech IT in UCEN
 - ✨ Interested in Programming,Basics about Python,C.
 - 📫 Good at HTML,CSS,PHP,Javascript
