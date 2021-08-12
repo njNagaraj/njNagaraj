@@ -5,6 +5,9 @@
 - 📫 Good at HTML,CSS,PHP,Javascript
 - 💞️ Ambition is to become a energy coder.
 
+
+## Languages
+
 <div>
     <img src="https://img.shields.io/static/v1?label=&message=python&color=ffd343&style=for-the-badge&logo=python&logoColor=black" alt="Python"/>
     <img src="https://img.shields.io/static/v1?label=&message=Language&color=283593&style=for-the-badge&logo=c&logoColor=white" alt="C"/>
@@ -22,14 +25,14 @@
 ## Find Me On
 
 <div>
-    <a href="https://www.linkedin.com/in/nanthakumar13/" title="LinkedIn Profile">
+    <a href="https://www.linkedin.com/in/nj-nagaraj/" title="LinkedIn Profile">
         <img src="https://img.shields.io/static/v1?label=&message=linkedin&color=0a66c2&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="https://twitter.com/nknantha13" title="Twitter Profile">
+    <a href="https://twitter.com/RajSmar58260529" title="Twitter Profile">
         <img src="https://img.shields.io/static/v1?label=&message=twitter&color=0d8bd9&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
     </a>
     <br>
-    <a href="mailto:nknanthakumar13@gmail.com" title="Mail">
+    <a href="mailto:njraj24@gmail.com" title="Mail">
         <img src="https://img.shields.io/static/v1?label=&message=mail&color=ea4335&style=for-the-badge&logo=gmail&logoColor=white" alt="nknanthakumar13@gmail.com"/>
     </a>
 </div>
