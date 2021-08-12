@@ -36,3 +36,14 @@
         <img src="https://img.shields.io/static/v1?label=&message=mail&color=ea4335&style=for-the-badge&logo=gmail&logoColor=white" alt="nknanthakumar13@gmail.com"/>
     </a>
 </div>
+
+## GitHub Stats
+
+<div>
+    <img width="53%" src="https://github-readme-stats.vercel.app/api?username=njnagaraj&count_private=true&show_icons=true&include_all_commits=true&hide=stars&theme=tokyonight" alt="There is a problem while loading stats ☹️"/>
+    <img width="46%" src="https://github-readme-streak-stats.herokuapp.com?user=njnagaraj&theme=tokyonight"/>
+    <br>
+    <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=njnagaraj&theme=react-dark"/>
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=njnagaraj&layout=compact&theme=tokyonight" alt="There is a problem while loading stats ☹️"/>
+</div>
