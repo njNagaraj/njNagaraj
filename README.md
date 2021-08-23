@@ -22,7 +22,7 @@
     <img src="https://img.shields.io/static/v1?label=&message=vscode&color=006bb3&style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VSCode"/>
     <img src="https://img.shields.io/static/v1?label=&message=github&color=181717&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     <img src="https://img.shields.io/static/v1?label=&message=windows&color=0078d6&style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
-    <img src="https://img.shields.io/static/v1?label=&message=linux&color=66a329&style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/>    
+    <img src="https://img.shields.io/static/v1?label=&message=linux&color=66a329&style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/>   
 </div>
 
 <br>
