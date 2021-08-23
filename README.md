@@ -39,6 +39,9 @@
     <a href="mailto:njraj24@gmail.com" title="Mail">
         <img src="https://img.shields.io/static/v1?label=&message=mail&color=ea4335&style=for-the-badge&logo=gmail&logoColor=white" alt="nknanthakumar13@gmail.com"/>
     </a>
+    <a href="https://www.hackerrank.com/nknantha" title="HackerRank Profile">
+        <img src="https://img.shields.io/static/v1?label=&message=hackerrank&color=21914a&style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"/>
+    </a>
 </div>
 
 <br>
