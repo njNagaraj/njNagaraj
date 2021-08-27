@@ -1,6 +1,6 @@
 ## 👋Hi! what's up ⚡️Here Nagaraj <br>
 
-- 🌱 Doing B.Tech IT in UCEN
+- 🌱 Doing B.Tech IT in UCE Nagercoil (Tamilnadu)
 - ✨ Interested in Programming,Basics about Python,C.
 - 📫 Good at HTML,CSS,PHP,Javascript
 - 💞️ Ambition is to become a energy coder.
