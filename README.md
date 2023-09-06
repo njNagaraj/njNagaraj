@@ -1,8 +1,8 @@
 ## 👋Hi! what's up ⚡️Here Nagaraj <br>
 
 - 🌱 Doing B.Tech IT in UCE Nagercoil (Tamilnadu)
-- ✨ Interested in Programming,Basics about Python,C.
-- 📫 Basics about HTML,CSS,PHP,Javascript
+- ✨ Pythonistas
+- 📫 Basics about Java
 - 💞️ Ambition is to become a energy coder.
 
 <br>
@@ -11,12 +11,6 @@
 
 <div>
     <img src="https://img.shields.io/static/v1?label=&message=python&color=ffd343&style=for-the-badge&logo=python&logoColor=black" alt="Python"/>
-    <img src="https://img.shields.io/static/v1?label=&message=Language&color=283593&style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-    <img src="https://img.shields.io/static/v1?label=&message=html5&color=E34F26&style=for-the-badge&logo=html5&logoColor=white" alt="html5"/>
-    <img src="https://img.shields.io/static/v1?label=&message=css3&color=1572B6&style=for-the-badge&logo=css3&logoColor=white" alt="css3"/>
-    <img src="https://img.shields.io/static/v1?label=&message=php&color=grey&style=for-the-badge&logo=php&logoColor=white" alt="php"/>
-
-
 
 </div>
 
