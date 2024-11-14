@@ -2,7 +2,6 @@
 
 - 🌱 Doing B.Tech IT in UCE Nagercoil (Tamilnadu)
 - ✨ Full Stack Dev
-- 📫 Basics about Java
 - 💞️ Ambition is to become a energy coder.
 
 <br>
