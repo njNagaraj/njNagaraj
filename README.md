@@ -1,7 +1,7 @@
 ## 👋Hi! what's up ⚡️Here Nagaraj <br>
 
 - 🌱 Doing B.Tech IT in UCE Nagercoil (Tamilnadu)
-- ✨ Pythonistas
+- ✨ Full Stack Dev
 - 📫 Basics about Java
 - 💞️ Ambition is to become a energy coder.
 
@@ -10,6 +10,8 @@
 ## Languages Known 💎
 
 <div>
+    <img src="https://img.shields.io/static/v1?label=&message=python&color=ffd343&style=for-the-badge&logo=react&logoColor=black" alt="Python"/>
+    <img src="https://img.shields.io/static/v1?label=&message=python&color=ffd343&style=for-the-badge&logo=node&logoColor=black" alt="Python"/>
     <img src="https://img.shields.io/static/v1?label=&message=python&color=ffd343&style=for-the-badge&logo=python&logoColor=black" alt="Python"/>
 
 </div>
@@ -21,8 +23,8 @@
 <div>
     <img src="https://img.shields.io/static/v1?label=&message=vscode&color=006bb3&style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VSCode"/>
     <img src="https://img.shields.io/static/v1?label=&message=github&color=grey&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    <img src="https://img.shields.io/static/v1?label=&message=windows&color=0078d6&style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
-    <img src="https://img.shields.io/static/v1?label=&message=linux&color=66a329&style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/>   
+    <img src="https://img.shields.io/static/v1?label=&message=github&color=grey&style=for-the-badge&logo=canva&logoColor=white" alt="GitHub"/>
+
 </div>
 
 <br>
