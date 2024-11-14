@@ -10,8 +10,8 @@
 ## Languages Known 💎
 
 <div>
-    <img src="https://img.shields.io/static/v1?label=&message=python&color=ffd343&style=for-the-badge&logo=react&logoColor=black" alt="Python"/>
-    <img src="https://img.shields.io/static/v1?label=&message=python&color=ffd343&style=for-the-badge&logo=node&logoColor=black" alt="Python"/>
+    <img src="https://img.shields.io/static/v1?label=&message=React&color=ffd343&style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+    <img src="https://img.shields.io/static/v1?label=&message=Node&color=ffd343&style=for-the-badge&logo=nodejs&logoColor=black" alt="Node"/>
     <img src="https://img.shields.io/static/v1?label=&message=python&color=ffd343&style=for-the-badge&logo=python&logoColor=black" alt="Python"/>
 
 </div>
@@ -23,7 +23,7 @@
 <div>
     <img src="https://img.shields.io/static/v1?label=&message=vscode&color=006bb3&style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VSCode"/>
     <img src="https://img.shields.io/static/v1?label=&message=github&color=grey&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    <img src="https://img.shields.io/static/v1?label=&message=github&color=grey&style=for-the-badge&logo=canva&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/static/v1?label=&message=Canva&color=grey&style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
 
 </div>
 
