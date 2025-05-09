@@ -11,6 +11,7 @@
 <div>
     <img src="https://img.shields.io/static/v1?label=&message=React&color=ffd343&style=for-the-badge&logo=react&logoColor=black" alt="React"/>
     <img src="https://img.shields.io/static/v1?label=&message=Node&color=ffd343&style=for-the-badge&logo=node&logoColor=black" alt="Node"/>
+    <img src="https://img.shields.io/static/v1?label=&message=Express&color=ffd343&style=for-the-badge&logo=Express&logoColor=black" alt="Express"/>
     <img src="https://img.shields.io/static/v1?label=&message=JavaScript&color=ffd343&style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
     <img src="https://img.shields.io/static/v1?label=&message=python&color=ffd343&style=for-the-badge&logo=python&logoColor=black" alt="Python"/>
 
