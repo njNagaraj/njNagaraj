@@ -1,6 +1,6 @@
 ## 👋Hi! what's up ⚡️Here Nagaraj <br>
 
-- 🌱 Doing B.Tech IT in UCE Nagercoil (Tamilnadu)
+- 🌱 B.Tech Graduate (Tamilnadu)
 - ✨ Full Stack Dev
 - 💞️ Ambition is to become a energy coder.
 
