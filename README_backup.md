@@ -1,9 +1,8 @@
-![Banner](https://placehold.co/1200x300/000000/FFFFFF/png?text=My+GitHub+Profile)
+## 👋Hi! what's up ⚡️Here Nagaraj <br>
 
-## 👋 Hello there! I'm Nagaraj.
-
-Welcome to my corner of the GitHub universe! I'm a B.Tech graduate from Tamilnadu, passionate about Full Stack Development.
-My ambition? To become an energetic and impactful coder, crafting solutions that make a difference. ⚡️
+- 🌱 B.Tech Graduate (Tamilnadu)
+- ✨ Full Stack Dev
+- 💞️ Ambition is to become a energy coder.
 
 <br>
 
@@ -31,34 +30,6 @@ My ambition? To become an energetic and impactful coder, crafting solutions that
 
 <br>
 
-## 🚀 My Projects
-
-Here are a few projects I've worked on:
-
-1.  **Project Title 1**
-    *   *Description:* A brief description of your project, what it does, and the technologies used.
-    *   *Link:* `[View Project](your-project-link-1)`
-2.  **Project Title 2**
-    *   *Description:* A brief description of your project, what it does, and the technologies used.
-    *   *Link:* `[View Project](your-project-link-2)`
-3.  **Project Title 3**
-    *   *Description:* A brief description of your project, what it does, and the technologies used.
-    *   *Link:* `[View Project](your-project-link-3)`
-
-*(Feel free to add more or fewer projects!)*
-
-<br>
-
-## 🌱 Currently Exploring
-
-I'm always eager to learn and explore new technologies. Currently, I'm focusing on:
-
--   Technology/Concept 1
--   Technology/Concept 2
--   Another interesting area I'm diving into!
-
-<br>
-
 ## SocialMedia💬
 
 <div>
@@ -78,6 +49,7 @@ I'm always eager to learn and explore new technologies. Currently, I'm focusing 
         <img src="https://img.shields.io/static/v1?label=&message=twitter&color=0d8bd9&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
     </a>
 </div>
+</div>
 
 <br>
 
@@ -91,8 +63,3 @@ I'm always eager to learn and explore new technologies. Currently, I'm focusing 
     <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=njnagaraj&layout=compact&theme=tokyonight" alt="There is a problem while loading stats ☹️"/>
 </div>
-
----
-<p align="center">
-  Thanks for stopping by! Feel free to connect or reach out if you'd like to collaborate on a project. Let's build something amazing together!
-</p>
