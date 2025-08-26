@@ -64,7 +64,6 @@
       <br><br>
       <center><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=njNagaraj&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages Card"/></center>
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=njNagaraj&theme=react-dark" alt="GitHub Activity Graph"/>
-
 </div>
 <br>
 
