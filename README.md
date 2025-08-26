@@ -56,10 +56,10 @@
 ## GitHub Stats
 
 <div>
-    <img width="53%" src="https://github-readme-stats.vercel.app/api?username=njnagaraj&count_private=true&show_icons=true&include_all_commits=true&hide=stars&theme=tokyonight" alt="There is a problem while loading stats ☹️"/>
-    <img width="46%" src="https://github-readme-streak-stats.herokuapp.com?user=njnagaraj&theme=tokyonight"/>
+    <img width="53%" src="https://github-readme-stats.vercel.app/api?username=njNagaraj&count_private=true&show_icons=true&include_all_commits=true&hide=stars&theme=tokyonight" alt="There is a problem while loading stats ☹️"/>
+    <img width="46%" src="https://github-readme-streak-stats.herokuapp.com?user=njNagaraj&theme=tokyonight"/>
     <br>
-    <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=njnagaraj&theme=react-dark"/>
+    <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=njNagaraj&theme=react-dark"/>
     <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=njnagaraj&layout=compact&theme=tokyonight" alt="There is a problem while loading stats ☹️"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=njNagaraj&layout=compact&theme=tokyonight" alt="There is a problem while loading stats ☹️"/>
 </div>
