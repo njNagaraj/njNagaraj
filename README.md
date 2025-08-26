@@ -53,13 +53,43 @@
 
 <br>
 
-## GitHub Stats
 
+## My GitHub Stats
+
+<br>
 <div>
-    <img width="53%" src="https://github-readme-stats.vercel.app/api?username=njNagaraj&count_private=true&show_icons=true&include_all_commits=true&hide=stars&theme=tokyonight" alt="There is a problem while loading stats ☹️"/>
-    <img width="46%" src="https://github-readme-streak-stats.herokuapp.com?user=njNagaraj&theme=tokyonight"/>
-    <br>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=njNagaraj&theme=react-dark" />    
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=njNagaraj&layout=compact&theme=tokyonight" alt="There is a problem while loading stats ☹️"/>
+      <img width="53%" src="https://github-readme-stats.vercel.app/api?username=njNagaraj&show_icons=true&theme=tokyonight&count_private=true&hide=stars" alt="GitHub Stats Card"/>
+      <img width="46%" src="https://github-readme-streak-stats.herokuapp.com/?user=njNagaraj&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
+    <br>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=njNagaraj&theme=react-dark" alt="GitHub Activity Graph"/>
+    <br>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=njNagaraj&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages Card"/>
 </div>
+<br>
+
+---
+
+## 🏆 My GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=njNagaraj&theme=nord" alt="GitHub Trophies" />
+</div>
+
+---
+
+## ⏰ My Coding Activity
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=njNagaraj&theme=tokyonight" alt="WakaTime Stats" />
+</div>
+
+---
+
+## Visitor Count
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=njNagaraj.njNagaraj" alt="Visitor Count" />
+</div>
+
+***
+
+## Let's Connect! 💬
+
+Feel free to reach out to me on my socials. I'm always open to discussing new opportunities, collaborating on projects, or just chatting about tech! 😊
