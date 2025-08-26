@@ -62,8 +62,10 @@
       <img width="48.5%" src="https://github-readme-stats.vercel.app/api?username=njNagaraj&show_icons=true&theme=tokyonight&count_private=true&hide=stars" alt="GitHub Stats Card"/>
       <img width="45%" src="https://github-readme-streak-stats.herokuapp.com?user=njNagaraj&theme=tokyonight"/>    
       <br><br>
-      <center><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=njNagaraj&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages Card"/></center>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=njNagaraj&theme=react-dark" alt="GitHub Activity Graph"/>
+    <div align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=njNagaraj&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages Card"/>
+    </div>      
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=njNagaraj&theme=react-dark" alt="GitHub Activity Graph"/>
 </div>
 <br>
 
