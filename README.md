@@ -6,13 +6,14 @@
 
 <br>
 
-## Languages Known 💎
+## Languages/Frameworks/Libraries 💎
 
 <div>
-    <img src="https://img.shields.io/static/v1?label=&message=Node&color=ffd343&style=for-the-badge&logo=node.js&logoColor=black" alt="Node"/>
-    <img src="https://img.shields.io/static/v1?label=&message=Express&color=ffd343&style=for-the-badge&logo=express&logoColor=black" alt="Express"/>
     <img src="https://img.shields.io/static/v1?label=&message=JavaScript&color=ffd343&style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
     <img src="https://img.shields.io/static/v1?label=&message=python&color=ffd343&style=for-the-badge&logo=python&logoColor=black" alt="Python"/>
+    <img src="https://img.shields.io/static/v1?label=&message=typescript&color=ffd343&style=for-the-badge&logo=typescript&logoColor=black" alt="Typescript"/>
+    <img src="https://img.shields.io/static/v1?label=&message=Node&color=ffd343&style=for-the-badge&logo=node.js&logoColor=black" alt="Node"/>
+    <img src="https://img.shields.io/static/v1?label=&message=Express&color=ffd343&style=for-the-badge&logo=express&logoColor=black" alt="Express"/>
     <img src="https://img.shields.io/static/v1?label=&message=React&color=ffd343&style=for-the-badge&logo=react&logoColor=black" alt="React"/>
 
 </div>
@@ -58,37 +59,16 @@
 
 <br>
 <div>
-      <img width="50%" src="https://github-readme-stats.vercel.app/api?username=njNagaraj&show_icons=true&theme=tokyonight&count_private=true&hide=stars" alt="GitHub Stats Card"/>
-      <img width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=njNagaraj&theme=tokyonight"/>    
-    <br>
+      <img width="48.5%" src="https://github-readme-stats.vercel.app/api?username=njNagaraj&show_icons=true&theme=tokyonight&count_private=true&hide=stars" alt="GitHub Stats Card"/>
+      <img width="45%" src="https://github-readme-streak-stats.herokuapp.com?user=njNagaraj&theme=tokyonight"/>    
+      <br><br>
+      <center><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=njNagaraj&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages Card"/></center>
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=njNagaraj&theme=react-dark" alt="GitHub Activity Graph"/>
-    <br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=njNagaraj&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages Card"/>
+
 </div>
 <br>
 
 ---
-
-## 🏆 My GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=njNagaraj&theme=nord" alt="GitHub Trophies" />
-</div>
-
----
-
-## ⏰ My Coding Activity
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=njNagaraj&theme=tokyonight" alt="WakaTime Stats" />
-</div>
-
----
-
-## Visitor Count
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=njNagaraj.njNagaraj" alt="Visitor Count" />
-</div>
-
-***
 
 ## Let's Connect! 💬
 
