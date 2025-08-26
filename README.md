@@ -59,7 +59,7 @@
 <br>
 <div>
       <img width="53%" src="https://github-readme-stats.vercel.app/api?username=njNagaraj&show_icons=true&theme=tokyonight&count_private=true&hide=stars" alt="GitHub Stats Card"/>
-      <img width="46%" src="https://github-readme-streak-stats.herokuapp.com/?user=njNagaraj&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
+      <img src="https://github-readme-streak-stats.vercel.app/?user=njNagaraj&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
     <br>
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=njNagaraj&theme=react-dark" alt="GitHub Activity Graph"/>
     <br>
